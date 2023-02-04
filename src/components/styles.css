@@ -1,0 +1,20 @@
+.header {
+    flex: 30%;
+    background-color: #19E9AE;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header input {
+    width: 12.5rem;
+    height: 1.5rem;
+    margin: 0.4rem 0.8rem;
+  }
+
+  .main {
+    flex: 70%;
+    width: 100%;
+    background-color: #B4F8E5;
+  }
